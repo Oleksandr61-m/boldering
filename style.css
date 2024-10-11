@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+text-align:center;
+}
+
+footer p{
+font-size:20px;
+background-color:white;
+text-align:left;
+}
+
+footer{
+background-color: black;
+border:5px solid black;
+}
+
+nav a{
+font-size:20px;
+}
+
+.special_link{
+margin: 20px 20px 20px 176px;
+padding:5px;
+color: black;
+}
+
+.special_link2{
+margin:20px 20px 20px 30px;
+padding:5px;
+color:black;
+}
+
+.special_link3{
+margin:20px 20px 20px 30px;
+padding:5px;
+color:black;  
+}
+
+nav{
+margin:20px;
+padding:15px;
+}
+
+main img{
+border-left:10px dotted black;
+margin:35px;
+}
+
+main p{
+border-radius:25px;
+border:2px solid black;
+padding:20px;
+width:800px;
+height:150px;
+font-size:20px;
+margin:20px;
+}
